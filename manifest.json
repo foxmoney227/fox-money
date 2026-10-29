@@ -1,0 +1,13 @@
+{
+"name":"Fox Money",
+"short_name":"Fox Money",
+"start_url":"./",
+"scope":"./",
+"display":"standalone",
+"background_color":"#38b6ff",
+"theme_color":"#38b6ff",
+"icons":[
+{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"},
+{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"maskable"}
+]
+}
